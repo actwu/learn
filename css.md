@@ -36,4 +36,7 @@ a {
 color: #82629c;
 }
 
+hr {
+background: transparent;
+}
 </style>
