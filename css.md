@@ -1,4 +1,4 @@
-# Css basics (Cas)
+# Css basics (Css)
 
 ## Edit Design All 
 ```Css
