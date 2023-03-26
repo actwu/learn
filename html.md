@@ -24,6 +24,12 @@ use to make buttons
 <a class="btn"></a>
 ```
 
+## This is a Span
+use for layout
+```html
+<span class=" "> </span>
+```
+
 Js, Css and Html are families helping each
 Css for design
 Js for Use
