@@ -19,7 +19,8 @@ body {
     
   padding: 1em;
   margin: 0in;
-  background-color:#191924; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef;  border-bottom: 1px solid #eaecef;
+  background-color:#191924;
+  border-bottom: 0px solid #eaecef; 
 }
 
 /**
@@ -87,7 +88,7 @@ pre, pre.highlight {
   padding:2em;
   border-radius: 25px;
   width: 5in;
-  margin:1in;
+  margin:0.5in;
 }
 
 h1 a {
