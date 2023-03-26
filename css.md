@@ -28,8 +28,8 @@ background-color:#191924;
 color:white;
 }
 
-code {
-background-color: #251925;
+pre {
+color:#191924;
 }
 
 a {
