@@ -73,7 +73,9 @@ pre, pre.highlight {
   margin:1in;
 }
 
-a:nth-child(1) {
+h1 a {
+    font-size: 1em;
+    font-variant-caps: all-small-caps;
     background-color: rgb(83, 179, 147);
     border-radius: 25px;
     border-width: 0px;
