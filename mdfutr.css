@@ -47,6 +47,7 @@ h1 {
     place-content: center;
     flex-wrap: wrap;
     flex-direction: column;
+
 }
 
 .markdown-body p,.markdown-body h1,
@@ -87,7 +88,6 @@ pre, pre.highlight {
   font-size: 1em; /* 2 */
   padding:2em;
   border-radius: 25px;
-  width: 5in;
   margin:0.5in;
 }
 
