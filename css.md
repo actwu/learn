@@ -29,11 +29,14 @@ color:white;
 }
 
 pre {
-color:#white;
 background-color:#252525;
 }
-
-a {
+  
+  pre code{
+color:#white;
+}
+  
+ a {
 color: #82629c;
 }
 
