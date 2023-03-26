@@ -76,6 +76,22 @@ pre {
   margin:1in;
 }
 
+a:nth-child(1) {
+    background-color: aquamarine;
+    border-width: 0px;
+    color: #363636;
+    cursor: pointer;
+    justify-content: center;
+    padding-bottom: calc(0.5em - 1px);
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: calc(0.5em - 1px);
+    text-align: center;
+    white-space: nowrap;
+    color: white;
+  }
+
+  
 a {
   background-color: aquamarine;
   border-width: 0px;
