@@ -13,8 +13,7 @@ href="mdfutr.css"/>
  use to write text
 
 ```html
-<p>text</p>
-```
+<p>text</p>```
 ## This is a Div or division
  use to make container
  ```html
@@ -25,14 +24,12 @@ href="mdfutr.css"/>
 use to make buttons
 
 ```html
-<a class="btn"></a>
-```
+<a class="btn"></a>```
 
 ## This is a Span
 use for layout
 ```html
-<span class=" "> </span>
-```
+<span class=" "> </span>```
 
 Js, Css and Html are families helping each
 Css for design
