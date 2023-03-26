@@ -41,15 +41,6 @@ h1 {
   margin: 0.67em 0;
 }
 
-.markdown-body {
-    display: grid;
-    justify-content: left;
-    place-content: left;
-    flex-wrap: wrap;
-    flex-direction: column;
-
-}
-
 .markdown-body p,.markdown-body h1,
 .markdown-body h2,.markdown-body h3,
 .markdown-body h4,.markdown-body h5,
@@ -86,10 +77,8 @@ pre, pre.highlight {
     background-color:hsl(229, 24%, 17%);
   font-family: monospace, monospace; /* 1 */
   font-size: 1em; /* 2 */
-  padding:2em;
+  padding:0.5em;
   border-radius: 25px;
-  margin:0.5in;
-  width: max-content;
 }
 
 h1 a {
