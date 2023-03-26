@@ -37,3 +37,24 @@ Html for Based like a building block
 
 the code i sent you have my framework so you wont waste time css
 
+
+<style>
+
+body {
+background-color:#191924;
+color:white;
+}
+
+pre {
+color:#white;
+background-color:#252525;
+}
+
+a {
+color: #82629c;
+}
+
+hr {
+background: transparent;
+}
+</style>
