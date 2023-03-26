@@ -93,7 +93,7 @@ pre, pre.highlight {
 h1 a {
     position: fixed;
   
-    right:1em;
+    left:1em;
     top:1em;
     font-size: 0.7em;
     font-variant-caps: all-small-caps;
