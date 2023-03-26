@@ -37,3 +37,36 @@ var_in_table = [var1, var2, var 3]
 ```javascript
 Table = ["item", "item"];
 ```
+
+## Interval
+```javascript
+setInterval(()=> {
+/*function*\
+}, second)
+```
+
+## Timeout
+```javascript
+setTimeout(()=> {
+/*function*\
+}, second)
+```
+
+## If
+```javascript
+If() {
+}
+```
+
+short version
+
+```javascript
+question ? choice1 : choice2
+```
+
+## While
+```javascript
+While() {
+
+}
+```
