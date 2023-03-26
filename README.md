@@ -2,8 +2,10 @@
 <link rel="stylesheet"
 href="mdfutr.css"/>
 
-## [Javascript](/js.md)
+# Web Guide
+A small coding guide
+## [Html](/html.md)
 
 ## [Css](/css.md)
 
-## [Html](/html.md)
+## [Javascript](/js.md)
