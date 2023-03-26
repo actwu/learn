@@ -28,7 +28,8 @@ background-color:#191924;
 color:white;
 }
 
-pre {
+.markdown-body .highlight pre, .markdown-bodypre {
+  
 background-color:#252525;
 }
   
