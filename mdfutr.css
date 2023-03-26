@@ -27,7 +27,7 @@ body {
  * Render the `main` element consistently in IE.
  */
 
-main {
+main {  
   display: block;
 }
 
@@ -42,9 +42,9 @@ h1 {
 }
 
 .markdown-body {
-    display: flex;
-    justify-content: center;
-    place-content: center;
+    display: grid;
+    justify-content: left;
+    place-content: left;
     flex-wrap: wrap;
     flex-direction: column;
 
