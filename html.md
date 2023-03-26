@@ -12,7 +12,7 @@
 <p>text</p>
 ```
 ## This is a Div or division
- use to make box
+ use to make container
  ```html
  <div> </div>
  ```
