@@ -5,7 +5,7 @@ href="mdfutr.css"/>
 # Css basics (Css)
 
 ## Edit Design All 
-```Css
+```css
 * {
 
 }
@@ -13,13 +13,13 @@ href="mdfutr.css"/>
 
 ## Edit Design Html
 
-```Css
+```css
 html {
 
 }
 ```
 ## Edit Design Body
-```Css
+```css
 * {
 
 }

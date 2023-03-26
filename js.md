@@ -3,7 +3,7 @@ href="mdfutr.css"/>
 
 # Javascript Basics
 
-```Javascript
+```javascript
 //javascript file 
 
 //or .js
