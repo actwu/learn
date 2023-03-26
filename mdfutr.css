@@ -9,12 +9,9 @@ html {
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
-/* Sections
-   ========================================================================== */
-
-/**
- * Remove the margin in all browsers.
- */
+* {
+    border-bottom: 0px solid #eaecef;
+}
 
 body {
     
