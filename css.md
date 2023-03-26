@@ -1,3 +1,7 @@
+
+<link rel="stylesheet"
+href="mdfutr.css"/>
+
 # Css basics (Css)
 
 ## Edit Design All 
@@ -20,5 +24,3 @@ html {
 
 }
 ```
-<link rel="stylesheet"
-href="mdfutr.css"/>

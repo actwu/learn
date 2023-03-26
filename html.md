@@ -1,3 +1,7 @@
+
+<link rel="stylesheet"
+href="mdfutr.css"/>
+
 # Html Basics
 
 ## Comments
@@ -36,7 +40,3 @@ Js for Use
 Html for Based like a building block
 
 the code i sent you have my framework so you wont waste time css
-
-
-<link rel="stylesheet"
-href="mdfutr.css"/>

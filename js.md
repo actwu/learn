@@ -1,3 +1,6 @@
+<link rel="stylesheet"
+href="mdfutr.css"/>
+
 # Javascript Basics
 
 ```Javascript
@@ -71,5 +74,3 @@ While() {
 }
 ```
 
-<link rel="stylesheet"
-href="mdfutr.css"/>
