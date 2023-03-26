@@ -11,14 +11,15 @@ html {
 
 * {
     border: none ;
-    border-bottom: 0px none ;
+  border-bottom: 0px solid #eaecef;
+
 }
 
 body {
     
   padding: 1em;
   margin: 0in;
-  background-color:#191924;
+  background-color:#191924; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef; border-bottom: 0px solid #eaecef;  border-bottom: 1px solid #eaecef;
 }
 
 /**
@@ -40,7 +41,6 @@ h1 {
 }
 
 p, h1, h2, h3, h4, h5, h6 {
-
   color: white;
 }
 
@@ -74,7 +74,11 @@ pre, pre.highlight {
 }
 
 h1 a {
-    font-size: 1em;
+    position: fixed;
+  
+    right:1em;
+    top:1em;
+    font-size: 0.7em;
     font-variant-caps: all-small-caps;
     background-color: rgb(83, 179, 147);
     border-radius: 25px;
