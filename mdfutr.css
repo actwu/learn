@@ -10,7 +10,7 @@ html {
 }
 
 * {
-    border-bottom: 0px solid #eaecef;
+    border-bottom: 0px none ;
 }
 
 body {
