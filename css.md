@@ -29,7 +29,8 @@ color:white;
 }
 
 pre {
-color:#191924;
+color:#white;
+background-color:#252525;
 }
 
 a {
