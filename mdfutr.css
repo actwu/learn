@@ -77,7 +77,8 @@ pre {
 }
 
 a:nth-child(1) {
-    background-color: aquamarine;
+    background-color: rgb(83, 179, 147);
+    border-radius: 25px;
     border-width: 0px;
     color: #363636;
     cursor: pointer;
@@ -93,8 +94,9 @@ a:nth-child(1) {
 
   
 a {
-  background-color: aquamarine;
+  background-color: rgb(85, 59, 179);
   border-width: 0px;
+  border-radius: 25px;
   color: #363636;
   cursor: pointer;
   justify-content: center;
