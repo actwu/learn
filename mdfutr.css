@@ -74,11 +74,14 @@ hr {
  */
 
 pre, pre.highlight {
-    background-color:hsl(229, 24%, 17%);
+background-color:hsl(229, 24%, 17%);
   font-family: monospace, monospace; /* 1 */
   font-size: 1em; /* 2 */
-  padding:0.5em;
+  padding:0.2em;
   border-radius: 25px;
+  max-width: 3in;
+  break-inside: auto;
+  word-break: break-all;
 }
 
 h1 a {
