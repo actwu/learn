@@ -10,3 +10,6 @@ A small coding guide
 [Css](/css.md)
 
 [Javascript](/js.md)
+
+If you want to try coding.. i made a code editor.
+## [futrcode](https://actwu.github.io/futrcode)
