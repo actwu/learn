@@ -12,7 +12,10 @@ html {
 * {
     border: none ;
   border-bottom: 0px solid #eaecef;
-
+text-decoration: none;
+text-rendering: optimizeLegibility;
+text-transform: none;
+font-family: 'Helvetica', sans-serif;
 }
 
 body {
@@ -88,7 +91,7 @@ background-color:hsl(229, 24%, 17%);
 }
 
   
-a {
+a{
   background-color: rgb(85, 59, 179);
   border-width: 0px;
   border-radius: 25px;
@@ -115,7 +118,7 @@ h1 a {
     
     font-variant-caps: all-small-caps;
     background-color: rgb(83, 179, 147);
-    border-radius: 25px;
+    
     border-width: 0px;
     
   }
