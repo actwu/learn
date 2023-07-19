@@ -39,3 +39,17 @@ div {
 
 }
 ```
+
+## Styling a class
+```css
+.theClass {
+
+}
+```
+
+## Styling a Element
+```css
+theElement {
+
+}
+```
