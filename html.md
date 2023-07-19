@@ -41,3 +41,11 @@ Js for Use
 Html for Based like a building block
 
 the code i sent you have my framework so you wont waste time css
+
+also html is just english structure for your visuals or user interface.
+```html
+<p class=" "> </p>
+```
+
+**p** means paragraph.
+
