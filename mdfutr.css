@@ -87,30 +87,6 @@ background-color:hsl(229, 24%, 17%);
   word-break: break-all;
 }
 
-h1 a {
-    position: fixed;
-  
-    left:1em;
-    top:1em;
-    font-size: 0.7em;
-    font-variant-caps: all-small-caps;
-    background-color: rgb(83, 179, 147);
-    border-radius: 25px;
-    border-width: 0px;
-    color: #363636;
-    cursor: pointer;
-    display:flex;
- width:max-content;
- border-radius: 10px;
- color: white;
- padding: 8px 1.8em;
-font-size: 16px; 
-height:max-content;
-    text-align: center;
-    white-space: nowrap;
-    color: white;
-  }
-
   
 a {
   background-color: rgb(85, 59, 179);
@@ -129,6 +105,23 @@ height:max-content;
   text-align: center;
   white-space: nowrap;
   color: white;
+}
+
+h1 a {
+    position: fixed;
+  
+    left:1em;
+    top:1em;
+    
+    font-variant-caps: all-small-caps;
+    background-color: rgb(83, 179, 147);
+    border-radius: 25px;
+    border-width: 0px;
+    
+  }
+
+h2 a {
+background-color:#424561;
 }
 
 abbr[title] {
