@@ -21,8 +21,41 @@ for a text
 ## Make text **Bold**
 Put 2 of asterisk sign (*) from start and ending
 ```markdown
-** this Is a bold text **
+**this Is a bold text**
 ```
+Output
+>
+> **this Is a bold text**
+>
+
+## Make text ***Bold Italic***
+Put 3 of asterisk sign (*) from start and ending
+```markdown
+***this Is a italic text***
+```
+Output
+> 
+> ***this Is a bold italic text***
+>
+
+## Make text *Italic*
+Put 3 of asterisk sign (*) from start and ending
+```markdown
+*this Is a italic text*
+```
+Output
+> 
+> *this Is a bold italic text*
+
+## Make text Text Block
+
+```markdown
+> this Is a text block
+```
+Output
+> 
+> this Is a text block
+>
 
 ## Code Block
 ```markdown
