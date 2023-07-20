@@ -14,7 +14,7 @@ A small coding guide
 
 [Javascript](/js.md)
 
-<cards>
+</cards>
 
 If you want to try coding.. i made a code editor.
 ## [futrcode](https://actwu.github.io/futrcode)
