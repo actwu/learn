@@ -96,6 +96,7 @@ for (int var; var = 0; var < "howMany"; var++) {
 
 ## Function & parameter
 - para is use extra input
+  
 ```c
 int MySheesh(thePara) {
   
