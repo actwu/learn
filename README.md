@@ -15,3 +15,5 @@ A small coding guide
 
 If you want to try coding.. i made a code editor.
 ## [futrcode](https://actwu.github.io/futrcode)
+
+## [Other language](/other.md)
