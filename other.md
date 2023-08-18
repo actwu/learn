@@ -5,7 +5,7 @@ href="mdfutr.css"/>
 # Programming Guide
 A small coding guide 2
 
-[c](/c.md)
+[C Lang](/c.md)
 
 [C#]()
 
