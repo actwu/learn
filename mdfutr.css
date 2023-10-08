@@ -38,6 +38,17 @@ outline:none;
 --navi:#191920;
 --pink:#ffb2ab;
 --vio:#b496ff;
+animation: fade 1s;
+}
+
+@keyframes fade {
+0% {
+opacity: 0%;
+}
+
+100% {
+opacity: 100%;
+}
 }
 
 
