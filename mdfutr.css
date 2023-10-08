@@ -118,8 +118,8 @@ height:max-content;
 h1 a {
     position: fixed;
   
-    left:1em;
-    top:1em;
+    right:1em;
+    bottom:1em;
     
     font-variant-caps: all-small-caps;
     background-color: rgb(83, 179, 147);
