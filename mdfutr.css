@@ -22,8 +22,8 @@ body {
     
   padding: 1em;
   margin: auto;
-  background-color:#eaeaea;
-  border-bottom: 0px solid #eaecef; 
+  background-color:#202030;
+  border-bottom: 0px solid #252536; 
 }
 
 /**
@@ -57,7 +57,7 @@ p {
 }
 
 p, h1, h2, h3, h4, h5, h6 {
-  color: black;
+  color: white;
 }
 
 /* Grouping content
@@ -90,6 +90,9 @@ background-color:hsl(229, 24%, 17%);
   word-break: break-all;
 }
 
+pre * {
+color: black;
+}
   
 a{
   background-color: rgb(85, 59, 179);
