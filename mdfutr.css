@@ -23,7 +23,7 @@ text-decoration: none;
 text-rendering: optimizeLegibility;
 text-transform: none;
 font-family: 'Helvetica', sans-serif;
-outline:0px;
+outline:none;
 
 --red:#ff455b;
 --blue:#6548db;
