@@ -4,6 +4,7 @@
    ========================================================================== */
 
 html {
+   background-color:#000;
     font-family: 'Comfortaa', Helvetica, sans-serif;
    /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
@@ -43,8 +44,8 @@ outline:none;
 body {    
   padding: 1em;
   margin: auto;
-  background-color:#202030;
-  border-bottom: 0px solid #252536; 
+  background-color:#000;
+  border-bottom: 0px solid #000; 
 }
 
 /**
