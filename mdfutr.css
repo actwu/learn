@@ -11,16 +11,37 @@ html {
 
 * {
    line-height: 1.5;
-    border: none ;
-  border-bottom: 0px solid #eaecef;
+word-break: break-all;
+word-wrap: break-word;
+margin:0px;
+border: 0px;
+outline: none;
+user-select: none;
+border-radius: 0px;
+border-style: none;
+font-family: 'Helvetica', sans-serif;
 text-decoration: none;
 text-rendering: optimizeLegibility;
 text-transform: none;
 font-family: 'Helvetica', sans-serif;
+outline:0px;
+
+--red:#ff455b;
+--blue:#6548db;
+--yell:#ffe24f;
+--prim:#48cf8b;
+--black:#101010;
+--white:#f2f2f2;
+--mate:#e5e5e5;
+--grey: #505050;
+--dark:#303040;
+--navi:#191920;
+--pink:#ffb2ab;
+--vio:#b496ff;
+}
 }
 
-body {
-    
+body {    
   padding: 1em;
   margin: auto;
   background-color:#202030;
@@ -40,13 +61,16 @@ main {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 
-h1 {
-  font-size: 2em;
-  margin: 0.5em 0;
-}
-p {
-  font-size:1em;
-   }
+
+p {color: white; font-size:1em;}
+
+h1 {color: var(--red);font-size: 2em;}
+h2 {color: var(--blue);font-size: 2em;}
+h3 {color: var(--yell);font-size: 2em;}
+h4 {color: var(--green);font-size: 2em;}
+h5 {color: var(--vio);font-size: 2em;}
+h6 {color: var(--pink);font-size: 2em;}
+
 
 .markdown-body p,.markdown-body h1,
 .markdown-body h2,.markdown-body h3,
@@ -58,9 +82,7 @@ p {
     border-bottom: 0px solid #000000;
 }
 
-p, h1, h2, h3, h4, h5, h6 {
-  color: white;
-}
+
 
 /* Grouping content
    ========================================================================== */
