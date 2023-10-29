@@ -52,13 +52,24 @@ opacity: 100%;
 }
 }
 
+nav {
+top:0px;
+left:0px;
+right:0px;
+padding: 5px 10px;
+gap:9px;
+display:block;
+z-index:3;
+bachground: #000;
+outline: var(--navi) solid 1.5px;
+}
 
 body {    
   padding: 1em;
   margin: auto;
   background-color:#000;
-  border-bottom: 0px solid #000; 
-}
+border-bottom: 0px solid #000; 
+  }
 
 /**
  * Render the `main` element consistently in IE.
