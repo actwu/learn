@@ -146,6 +146,10 @@
   }
 }
 
+html,::root{
+  background-color: var(--color-canvas-default);
+  background: var(--color-canvas-default);
+  }
 .markdown-body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
