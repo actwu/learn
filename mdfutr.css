@@ -11,7 +11,7 @@ html {
 }
 
 ::root , * {
-color:white;
+color:#f2f2f2;
 line-height: 1.5;
 word-break: break-all;
 word-wrap: break-word;
@@ -140,7 +140,7 @@ a{
   background-color: var(--vio);
   border-width: 0px;
   border-radius: 25px;
-  color: #363636;
+  color: #f2f2f2;
   cursor: pointer;
   justify-content: center;
   display: grid;
