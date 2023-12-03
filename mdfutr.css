@@ -103,7 +103,7 @@
   }
 }
 
-::root,body {
+::root,html,body {
   background-color: var(--color-canvas-default);
   background: var(--color-canvas-default);
   
