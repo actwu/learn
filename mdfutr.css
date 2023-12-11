@@ -3,7 +3,7 @@
 }
 * {
     /*dark_dimmed*/
-    
+    /*
     --color-prettylights-syntax-comment: #768390;
     --color-prettylights-syntax-constant: #6cb6ff;
     --color-prettylights-syntax-entity: #dcbdfb;
@@ -48,7 +48,7 @@
     --color-attention-subtle: #ffddb0;
     --color-danger-fg: #e5534b;
     --color-done-fg: #986ee2;
-
+*/
 color: #f2f2ff;
 background: #191920;
 margin: 0px;
