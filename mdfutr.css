@@ -29,7 +29,7 @@
     --color-prettylights-syntax-markup-changed-text: #ffddb0;
     --color-prettylights-syntax-markup-changed-bg: #682d0f;
     --color-prettylights-syntax-markup-ignored-text: #adbac7;
-    --color-prettylights-syntax-markup-ignored-bg: #255ab2;
+    --color-prettylights-syntax-markup-ignored-bg: #ffddb0;
     --color-prettylights-syntax-meta-diff-range: #dcbdfb;
     --color-prettylights-syntax-brackethighlighter-angle: #768390;
     --color-prettylights-syntax-sublimelinter-gutter-mark: #545d68;
@@ -38,14 +38,14 @@
     --color-fg-muted: #768390;
     --color-fg-subtle: #636e7b;
     --color-canvas-default: #191920;
-    --color-canvas-subtle: #2d333b;
+    --color-canvas-subtle: #ffddb0;
     --color-border-default: #444c56;
     --color-border-muted: #373e47;
     --color-neutral-muted: rgba(99,110,123,0.4);
     --color-accent-fg: #539bf5;
     --color-accent-emphasis: #316dca;
     --color-attention-fg: #c69026;
-    --color-attention-subtle: rgba(174,124,20,0.15);
+    --color-attention-subtle: #ffddb0;
     --color-danger-fg: #e5534b;
     --color-done-fg: #986ee2;
 
