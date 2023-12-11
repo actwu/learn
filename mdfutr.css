@@ -82,7 +82,7 @@ h1:nth-child(1) {
     text-transform: uppercase;
     padding: 5px 10px;
     position:fixed;
-    color: var(--color-fg-default);
+    
     background:#191920;
     display:block;
     z-index:3;}
