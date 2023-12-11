@@ -35,8 +35,8 @@
     --color-prettylights-syntax-sublimelinter-gutter-mark: #545d68;
     --color-prettylights-syntax-constant-other-reference-link: #96d0ff;
     --color-fg-default: #adbac7;
-    --color-fg-muted: #768390;
-    --color-fg-subtle: #636e7b;
+    --color-fg-muted: #fff;
+    --color-fg-subtle: #fff;
     --color-canvas-default: #191920;
     --color-canvas-subtle: #ffddb0;
     --color-border-default: #444c56;
@@ -44,7 +44,7 @@
     --color-neutral-muted: #ffddb0;
     --color-accent-fg: #539bf5;
     --color-accent-emphasis: #316dca;
-    --color-attention-fg: #c69026;
+    --color-attention-fg: #fff;
     --color-attention-subtle: #ffddb0;
     --color-danger-fg: #e5534b;
     --color-done-fg: #986ee2;
