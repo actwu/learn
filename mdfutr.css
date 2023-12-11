@@ -74,15 +74,16 @@ bg {z-index: -1;top:0;
   
 }
 
-h1:first-child { 
+h1:nth-child(1) { 
     bottom:0px;
     left:0px;right:0px;
     text-transform: uppercase;
     padding: 5px 10px;
-    height:1em;
+    position:fixed;
     color: var(--color-fg-default);
     background:#191920;
-    display:block;z-index:3;}
+    display:block;
+    z-index:3;}
 }
 .markdown-body {
   -ms-text-size-adjust: 100%;
