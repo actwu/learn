@@ -60,7 +60,13 @@ text-transform: none;
 
 }
 
-bg {z-index: -1;top:0;left:0;right:0;bottom:0;position:fixed;display:block;}
+bg {z-index: -1;top:0;
+    left:0;right:0;
+    bottom:0;position:fixed;
+    display:block;
+    background-color: #191920;
+  background: #191920;
+   }
 
 ::root,html,body {
   background-color: #191920;
