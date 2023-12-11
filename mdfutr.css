@@ -46,7 +46,9 @@
     --color-attention-subtle: rgba(174,124,20,0.15);
     --color-danger-fg: #e5534b;
     --color-done-fg: #986ee2;
-  
+
+color: #fff;
+background: #191920;
 margin: 0px;
 border: 0px;
 outline: none;
