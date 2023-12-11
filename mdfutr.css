@@ -2,7 +2,7 @@
 * {
     /*dark_dimmed*/
     color-scheme: dark;
-    --color-prettylights-syntax-comment: #768390;
+    /*--color-prettylights-syntax-comment: #768390;
     --color-prettylights-syntax-constant: #6cb6ff;
     --color-prettylights-syntax-entity: #dcbdfb;
     --color-prettylights-syntax-storage-modifier-import: #adbac7;
@@ -46,7 +46,7 @@
     --color-attention-subtle: rgba(174,124,20,0.15);
     --color-danger-fg: #e5534b;
     --color-done-fg: #986ee2;
-
+*/
 color: #fff;
 background: #191920;
 margin: 0px;
