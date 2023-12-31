@@ -809,7 +809,6 @@ h1:nth-child(1) {
   margin: 0;
   font-size: 85%;
   white-space: break-spaces;
-  background-color: var(--color-neutral-muted);
   border-radius: 0px;
 }
 
@@ -855,8 +854,7 @@ h1:nth-child(1) {
   font-size: 85%;
   line-height: 1.45;
   color: var(--color-fg-default);
-  background-color: var(--color-canvas-subtle);
-  border-radius: 0px;
+   border-radius: 0px;
 }
 
 .markdown-body pre code,
@@ -868,7 +866,7 @@ h1:nth-child(1) {
   overflow: visible;
   line-height: inherit;
   word-wrap: normal;
-  background-color: transparent;
+   background-color: transparent;
   border: 0;
 }
 
