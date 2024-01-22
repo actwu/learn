@@ -124,6 +124,8 @@ h1:nth-child(1) {
   flex-wrap: wrap;gap: .1fr;
     background:#191920;
     display:block;
+  margin:10px;
+border-radius:10px;
     z-index:3;
 }
 
