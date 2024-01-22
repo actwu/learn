@@ -98,7 +98,20 @@ foot * {
 
 
 
-
+h1,h2,h3,h4,h5,h6 {
+too:0px;
+    left:0px;right:0px;
+    text-transform: uppercase;
+    padding: 10px 10px;
+    position:sticky;
+    display: flex;gap:9px;
+  justify-content: center;
+  place-items: center;
+  flex-wrap: wrap;gap: .1fr;
+    background:#191920;
+    display:block;
+    z-index:3;}
+}
 h1:nth-child(1) { 
     bottom:0px;
     left:0px;right:0px;
@@ -111,8 +124,9 @@ h1:nth-child(1) {
   flex-wrap: wrap;gap: .1fr;
     background:#191920;
     display:block;
-    z-index:3;}
+    z-index:3;
 }
+
 .markdown-body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
