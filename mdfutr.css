@@ -127,7 +127,7 @@ h1:nth-child(1) {
   margin:10px;
 border-radius:10px;
     z-index:3;
-}
+}}
 
 .markdown-body {
   -ms-text-size-adjust: 100%;
