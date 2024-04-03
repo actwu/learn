@@ -52,35 +52,40 @@ also html is just english structure for your visuals or user interface.
 ***No One Types the structure template anymore***
 
 ```html
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-          <meta charset="UTF-8">
-          <meta http-equiv="X-UA-Compatible" content="IE=edge">
-          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                
-          <meta name="theme-color" content="#191919">
-          <meta name="apple-mobile-web-app-capable" content="yes">
-          <title>My site</title>
-          <meta property="og:title" content="site">
-          <meta property="og:description" content="My Site">
-          <meta property="og:image" content="img/banner.png">
-          <meta name="twitter:card" content="summary">
-          <meta name="twitter:title" content="Me">
-          <meta name="twitter:description" content="My Site">
-          <meta name="twitter:image" content="img/banner.png">
-          <meta name="twitter:image:alt" content="banner name">
-      
-      <meta property="title" content="Me">
-      <meta property="author" content="Me">
-      <meta property="image" content="/img/banner.png">
-      <meta property="description" content="My Site">
-          
-      <link rel="shortcut icon" href="/img/icon.png" type="image/x-icon"> 
-      
-  </head>
-  <body>
-  
-  </body>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Website Title</title>
+<meta name="description" content="Brief description of your website, ideally including relevant keywords.">
+<meta name="keywords" content="List of keywords related to your website content.">
+<meta name="author" content="Your Name or Company Name">
+<meta name="robots" content="index, follow">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="googlebot" content="index, follow">
+<meta name="bingbot" content="index, follow">
+<meta property="og:title" content="Your Website Title">
+<meta property="og:description" content="Brief description of your website, ideally including relevant keywords.">
+<meta property="og:image" content="URL of an image representing your website for social sharing">
+<meta property="og:url" content="URL of your website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Your Website Title">
+<meta name="twitter:description" content="Brief description of your website, ideally including relevant keywords.">
+<meta name="twitter:image" content="URL of an image representing your website for social sharing">
+<meta name="twitter:site" content="@YourTwitterHandle">
+<meta name="twitter:creator" content="@YourTwitterHandle">
+<meta name="application-name" content="Your Website Name">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="URL of your tile image">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://actwu.github.io/ui/cute.css"/>
+</head>
+<body>
+ 
+</body>
+</html>
   </html>
 ```
 
