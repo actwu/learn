@@ -86,7 +86,7 @@ also html is just english structure for your visuals or user interface.
  
 </body>
 </html>
-  </html>
+  
 ```
 
 ## This is a meta for modern viewport
