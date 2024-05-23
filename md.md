@@ -1,7 +1,4 @@
-
-<link rel="stylesheet"
-href="mdfutr.css"/>
-
+<link rel="stylesheet" href="https://actwu.github.io/neu/n.css"/>
 # Markdown Language (Md)
 - A Text media used in making notes or text...
   This is commonly used in making design text in a easy way.
