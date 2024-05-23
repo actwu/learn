@@ -1,6 +1,4 @@
-
-<link rel="stylesheet"
-href="mdfutr.css"/>
+<link rel="stylesheet" href="https://actwu.github.io/neu/n.css"/>
 
 # Programming Guide
 A small coding guide 2
