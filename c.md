@@ -1,7 +1,4 @@
-
-<link rel="stylesheet"
-href="mdfutr.css"/>
-
+<link rel="stylesheet" href="https://actwu.github.io/neu/n.css"/>
 # C Lang (.c)
 - A Language Started 1972 by **Dennis Ritchie**
 - Also use in Making App or Operating System like Linux
