@@ -5,7 +5,7 @@ A small coding guide 2
 
 [C Lang](c.md)
 
-[C#](c#.md)
+[C#](csharp.md)
 
 [C++(Soon)]()
 
