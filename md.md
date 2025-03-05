@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://actwu.github.io/neu/n.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hyrious/github-markdown-css@main/dist/light-dark.css"/>
+
 # Markdown Language (Md)
 - A Text media used in making notes or text...
   This is commonly used in making design text in a easy way.
