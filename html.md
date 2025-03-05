@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://actwu.github.io/neu/n.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hyrious/github-markdown-css@main/dist/light.css"/>
+
 
 # Hyper Text Markdown Language (html)
 
