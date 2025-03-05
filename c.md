@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://actwu.github.io/neu/n.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hyrious/github-markdown-css@main/dist/light-dark.css"/>
+
 # C Lang (.c)
 - A Language Started 1972 by **Dennis Ritchie**
 - Also use in Making App or Operating System like Linux
