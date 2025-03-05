@@ -1,5 +1,4 @@
-<link rel="stylesheet"
-href="mdfutr.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hyrious/github-markdown-css@main/dist/light-dark.css"/>
 
 # Javascript Basics
 
