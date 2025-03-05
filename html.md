@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hyrious/github-markdown-css@main/dist/light.css"/>
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hyrious/github-markdown-css@main/dist/light-dark.css"/>
 
 # Hyper Text Markdown Language (html)
 
