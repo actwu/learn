@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://actwu.github.io/neu/n.css"/>
+<link rel="preload" as='style' href="https://actwu.github.io/md.css"/>
+<link rel="stylesheet" href="https://actwu.github.io/md.css"/>
 
 # Programming Guide
 A small coding guide 2
