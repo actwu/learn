@@ -14,9 +14,29 @@ A small coding guide
 If you want to try coding.. i made a code editor.
 ## [futrcode](https://actwu.github.io/code)
 
-## Neu Framework
+## ISE Language
 ```html
-<link rel="stylesheet" href="https://actwu.github.io/neu/n.css"/>
+<!DOCTYPE html to ise>
+
+<head>
+<link rel='preload'as="style"
+href='https://ise.web.app/110/l.css'>
+<link rel='preload'as="script"
+href='https://ise.web.app/110/sen.js'>
+<link rel='preload'as="script"
+href='https://ise.web.app/110/l.js'>
+<link rel='stylesheet' href='https://ise.web.app/110/l.css'>
+</head>
+
+<body>
+
+</body>
+
+<script src="https://ise.web.app/110/sen.js"> </script>
+<script src="https://ise.web.app/110/l.js"> </script>
+<script>
+sen.apply();func();
+</script>
 ```
 
 ## [Other language](/other.md)
