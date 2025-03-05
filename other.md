@@ -5,8 +5,8 @@ A small coding guide 2
 
 [C Lang](/c.md)
 
-[C#]()
+[C#](/c#.md)
 
 [C++(Soon)]()
 
-[Python (Soon)]()
+[Python](/py.md)
