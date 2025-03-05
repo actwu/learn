@@ -3,9 +3,9 @@
 # Programming Guide
 A small coding guide 2
 
-[C Lang](/c.md)
+[C Lang](c.md)
 
-[C#](/c#.md)
+[C#](c#.md)
 
 [C++(Soon)]()
 
