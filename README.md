@@ -15,7 +15,7 @@ If you want to try coding.. i made a code editor.
 ## [futrcode](https://actwu.github.io/code)
 
 ## ISE Language
-[ISE](https://ise.web.app/docs)
+[ISE](https://gist.github.com/actwu/0a120c27344cfa32aeceef16f6f69cce#file-isedocs-md)
 ```html
 <!DOCTYPE html to ise>
 
