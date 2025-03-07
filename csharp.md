@@ -2,13 +2,13 @@
 <link rel="stylesheet" href="https://actwu.github.io/md.css"/>
 
 # if
-```
+```c#
 var result = condition ? valueIfTrue : valueIfFalse;
 ```
 
 
 # While Loop
-```
+```c#
 while (condition) 
 {
     // code to execute
@@ -16,12 +16,12 @@ while (condition)
 ```
 
 # Variable 
-```
+```c#
 var myVariable = value;
 ```
 
-# Function/
-```
+# Function
+```c#
 public void Myfunc() 
 {
     // code to execute
@@ -29,7 +29,7 @@ public void Myfunc()
 ```
 
 # Class
-```
+```c#
 public class MyClass 
 {
     // properties and methods
@@ -37,7 +37,7 @@ public class MyClass
 ```
 
 # Import / Using Directive
-```
+```c#
 using System;
 ```
 
@@ -45,18 +45,18 @@ Export is not a C# keyword, but you can use the 'public' access modifier to make
 
 
 # Input
-```
+```c#
 Console.Write("Enter your name: ");
 string name = Console.ReadLine();
 ```
 
 # Output
-```
+```c#
 Console.WriteLine("Hello, " + name + "!");
 ```
 
 # template string 
 
-```
+```c#
 $"{Var}"
 ```
