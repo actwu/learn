@@ -1,8 +1,9 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md.css"/>
 
-# Web Guide
-A small coding guide
+# Code Guide
+A short plaform for learning coding in a short-cut way to ease and speed up
+learning curve progress by giving you all code need to make a good software
 
 [Html](/html.md)
 
@@ -13,10 +14,14 @@ A small coding guide
 [Javascript](/js.md)
 
 If you want to try coding.. i made a code editor.
-## [futrcode](https://actwu.github.io/code)
+[futrcode](https://actwu.github.io/code)
 
 ## ISE Language
-[ISE](https://gist.github.com/actwu/0a120c27344cfa32aeceef16f6f69cce#file-isedocs-md)
+This is language for building interactive software quickly, fast, native, web, with
+easy-to-use system. 0.7s Speed Native and Web Machine Rule.
+
+[Learn More,](https://gist.github.com/actwu/0a120c27344cfa32aeceef16f6f69cce#file-isedocs-md)
+
 ```html
 <!DOCTYPE html to ise>
 
@@ -41,4 +46,4 @@ sen.apply();func();
 </script>
 ```
 
-## [Other language](/other.md)
+[Other language](/other.md)
