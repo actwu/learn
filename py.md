@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://actwu.github.io/md.css"/>
 
 # If Statement
-```
+```py
 result = value_if_true if condition else value_if_false
 ```
 
