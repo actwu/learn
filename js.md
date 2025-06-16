@@ -74,3 +74,13 @@ While() {
 }
 ```
 
+## Replace
+```javascript
+charsToRemove.forEach(char => {
+  str = str.replaceAll(char, '');
+});
+
+console.log(str);
+```
+
+
