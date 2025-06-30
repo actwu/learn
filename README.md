@@ -7,9 +7,13 @@ learning curve progress by giving you all code need to make a good software
 
 [Html](/html.md)
 
+---
+
 ## Web
 
 [Generate Seo](https://actwu.github.io/gen/seo) [Make Your Website!](https://actwu.github.io/page)
+
+---
 
 [Markdown](/md.md)
 
