@@ -1,6 +1,7 @@
-<link rel="preload" as='style' href="https://actwu.github.io/md.css"/>
-<link rel="stylesheet" href="https://actwu.github.io/md.css"/>
-<link rel='preload' as="script" href='https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js'>
+<link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
+<link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
+<script src="https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js"></script>
+
 
 My favorite theme / ui i use in md
 
@@ -78,6 +79,10 @@ Output
 t h i s  i s  w h e r e  y o u  p u t  t h e  c o d e s
 ` ` `
 ```
+
+<script>
+app('Learn-MD'); fav(2);
+</script>
 
 ## Button
 ```markdown
