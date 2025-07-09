@@ -5,6 +5,12 @@
 - A Text media used in making notes or text...
   This is commonly used in making design text in a easy way.
 
+```html
+<link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
+<link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
+```
+
+Basically html but simple.
 Mainly used in documentations.
 
 It is also rendered as html,
