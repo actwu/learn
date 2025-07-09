@@ -1,5 +1,9 @@
-<link rel="preload" as='style' href="https://actwu.github.io/md.css"/>
-<link rel="stylesheet" href="https://actwu.github.io/md.css"/>
+<link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
+<link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
+<script src="https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js"></script>
+<script>
+app('Learn-Home'); fav(2);
+</script>
 
 # Code Guide
 A short plaform for learning coding in a short-cut way to ease and speed up
