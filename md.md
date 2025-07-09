@@ -1,14 +1,17 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md.css"/>
 
-# Markdown Language (Md)
-- A Text media used in making notes or text...
-  This is commonly used in making design text in a easy way.
+My favorite theme / ui i use in md
 
 ```html
 <link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 ```
+
+# Markdown Language (Md)
+- A Text media used in making notes or text...
+  This is commonly used in making design text in a easy way.
+
 
 Basically html but simple.
 Mainly used in documentations.
