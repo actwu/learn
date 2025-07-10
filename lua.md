@@ -1,4 +1,9 @@
-
+<link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
+<link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
+<script src="https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js"></script>
+<script>
+app('Learn-Lua'); fav(3);
+</script>
 
 - **while loop**: Executes a block repeatedly while a condition is true. Syntax:
   ```lua
