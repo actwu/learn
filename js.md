@@ -7,6 +7,8 @@ This is a JavaScript guideline for learning.
 It focuses on clean, fast, and modern browser-side coding.
 All examples follow a direct, no-frills style.
 
+***This is based on web4now guideline.***
+
 ---
 
 ## File Extension
@@ -93,7 +95,7 @@ setTimeout(() => {
 
 ---
 
-## Ternary
+## Reason (If / Else) 
 
 Use `? :` for short conditionals.
 
