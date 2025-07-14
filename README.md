@@ -5,6 +5,7 @@
 app('Learn-Home'); fav(2);
 </script>
 
+***Based on [web4](https://actwu.github.io/blog/web4)***
 # Code Guide
 A short plaform for learning coding in a short-cut way to ease and speed up
 learning curve progress by giving you all code need to make a good software
