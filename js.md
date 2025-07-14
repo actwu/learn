@@ -203,4 +203,4 @@ el.toggleAttribute('state');
 
 ---
 
-If you’d also like a **sample HTML page using these rules**, let me know and I can include one.
+lol
