@@ -107,12 +107,13 @@ Example:
 
 ```javascript
 el.exists
-  ? (() => {
-      // if true
-    })()
-  : (() => {
-      // if false
-    })();
+? (() => {
+// if true
+})()
+
+: (() => {
+// if false
+)();
 ```
 
 ---
