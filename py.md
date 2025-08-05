@@ -37,6 +37,10 @@ arr = [1, 2, 3, 4, 5]
 ```
 
 ```py
+arr[0]
+```
+
+```py
 for item in arr:
     print(item)
 
