@@ -10,6 +10,12 @@ app('Learn - Py'); fav(2);
 result = value_if_true if condition else value_if_false
 ```
 
+# Template String
+```py
+f"{var}"
+```
+
+
 # While Loop
 ```py
 while condition:
@@ -23,6 +29,17 @@ my_variable = value
 ```py
 def my_func():
     # code to execute
+```
+
+Array
+```py
+arr = [1, 2, 3, 4, 5]
+```
+
+```py
+for item in arr:
+    print(item)
+
 ```
 
 # Class
@@ -44,11 +61,6 @@ name = input("Enter your name: ")
 # Output
 ```py
 print(f"Hello, {name}!")
-```
-
-# Template String
-```py
-f"{var}"
 ```
 
 
