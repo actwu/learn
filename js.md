@@ -193,6 +193,16 @@ el.toggleAttribute('state');
 
 ---
 
+Get Path
+```js
+window.location.pathname
+```
+
+Replace path
+```js
+history.replaceState({}, '', '/new/path')
+```
+
 ## Summary
 
 * Do not use `class` keyword or `.classList`.
