@@ -6,8 +6,10 @@
 My favorite theme / ui i use in md
 
 ```html
-<link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
-<link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
+<link rel="preload" href="https://actwu.github.io/mde/l.js">
+<script src="https://actwu.github.io/mde/l.js"></script>
+
+<link rel="preload" href="https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js"/>
 <script src="https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js"></script>
 <script>
 app('NUM'); fav(2);
