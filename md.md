@@ -5,7 +5,8 @@
 
 My favorite theme / ui i use in md
 For pure MD
-```
+
+```html
 <link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 <link rel="preload" href="https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js"/>
