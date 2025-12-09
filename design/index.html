@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en" style="color-scheme:light">
+<head>
+<meta charset="utf-8">
+
+<title>Learn Design w/ Nay</title>
+<meta name="description" content="Explore practical design principles with clear examples, including color usage, alignment, layout, shadows, and brightness. Understand how to create visually ef">
+<meta name="keywords" content="Design, UX, UI, Color Theory, Layout, Alignment, Shadows, Brightness, Visual Hierarchy, Web Design, Frontend Design, User Experience, Design Guide, Learn Design, Nay">
+<meta name="author" content="Nay">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2064%2064'%3E%0A%3Ccircle%20cx%3D'32'%20cy%3D'32'%20r%3D'32'%20fill%3D'%23000000'%2F%3E%0A%3Ctext%20x%3D'32'%20y%3D'46'%20font-size%3D'38'%20font-weight%3D'700'%20text-anchor%3D'middle'%20fill%3D'%23ffffff'%20font-family%3D'Arial'%20letter-spacing%3D'-1'%3E%F0%9F%94%B5%3C%2Ftext%3E%0A%3C%2Fsvg%3E">
+<link rel="canonical" href="">
+<meta property="og:title" content="Learn Design w/ Nay">
+<meta property="og:description" content="Explore practical design principles with clear examples, including color usage, alignment, layout, shadows, and brightness. Understand how to create visually ef">
+<meta property="og:image" content="">
+<meta property="og:url" content="">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Learn Design w/ Nay">
+<meta property="og:locale" content="">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Learn Design w/ Nay">
+<meta name="twitter:description" content="Explore practical design principles with clear examples, including color usage, alignment, layout, shadows, and brightness. Understand how to create visually ef">
+<meta name="twitter:image" content="">
+<meta name="twitter:site" content="">
+<meta name="twitter:creator" content="">
+
+<meta name='google-site-verification' content=''>
+<meta name='msvalidate.01' content=''>
+
+<link rel="manifest" href="manifest.json">
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"Learn Design w/ Nay","url":"","logo":"data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2064%2064'%3E%0A%3Ccircle%20cx%3D'32'%20cy%3D'32'%20r%3D'32'%20fill%3D'%23000000'%2F%3E%0A%3Ctext%20x%3D'32'%20y%3D'46'%20font-size%3D'38'%20font-weight%3D'700'%20text-anchor%3D'middle'%20fill%3D'%23ffffff'%20font-family%3D'Arial'%20letter-spacing%3D'-1'%3E%F0%9F%94%B5%3C%2Ftext%3E%0A%3C%2Fsvg%3E","description":"Explore practical design principles with clear examples, including color usage, alignment, layout, shadows, and brightness. Understand how to create visually ef"}</script>
+<style>
+* {margin:0; padding:0; box-sizing:border-box;}
+
+:root {
+  --orange:#ff6252;
+  --blue:#007aff;
+  --yellow:#fdad15;
+  --green:#2ac670;
+  --white90:#fafaff;
+  --mint:#e3e4ef;
+  --shov:#d3d8e2;
+  --dark: #17171c;
+}
+
+body {
+
+  font-family:Arial;
+  background:var(--mint);
+  color:var(--dark);
+  padding:20px;
+  display:flex;
+  flex-direction:column;
+  gap:40px;
+  letter-spacing:-0.3px;
+  max-width:599px;
+  margin:auto;
+}
+
+h1 {
+  font-size:34px;
+  letter-spacing:-0.8px;
+}
+
+h2 {
+  font-size:24px;
+  letter-spacing:-0.6px;
+}
+
+section {display:flex; flex:1; width: auto ;flex-direction:column; gap:24px;}
+span {display:flex; flex-wrap:wrap; gap:20px;}
+
+.container {
+  border-radius:12px;
+  display:flex; 
+width: auto ;
+  flex-direction:column;
+  gap:20px;
+}
+
+.sample,button {
+border:unset;
+display:flex; 
+width: 100% ;
+ flex-direction:column;
+  padding:20px;
+  border-radius:10px;
+  background:var(--white90);
+  color:#000;
+}
+
+
+.shadow-soft {box-shadow:0 2px 6px rgba(20,20,20,0.15);}
+.shadow-strong {box-shadow:0 5px 10px rgba(0,0,0,0.25);scale:1.01;}
+
+.align-left {justify-content:flex-start;text-align:left;}
+.align-center {justify-content:center;text-align: center;}
+.align-right {justify-content:flex-end;text-align:right;}
+
+row {display:flex; flex-direction:row; width:100%; gap:20px;}
+col {display:flex; flex-direction:column; gap:20px;}
+row .sample {flex:1;display:flex;width: 100% ;
+ flex-direction:row;}
+
+.sample-color {width:40px; height:40px; border-radius:6px;}
+
+.bg-orange {background:var(--orange);}
+.blue {color:var(--blue);}
+.bg-blue {background:var(--blue);}
+.bg-yellow {background:var(--yellow);}
+.bg-green {background:var(--green);}
+.bg-white90 {background:var(--white90);}
+.bg-mint {background:var(--mint);}
+.bg-shov {background:var(--shov);}
+
+.text {font-size:15px; line-height:1.45;}
+</style>
+</head>
+<body>
+<h1 class="blue">
+<svg xmlns='http://www.w3.org/2000/svg' width='36px' height='36px' viewBox='0 0 24 24'><title>leaf_2_fill</title><g id="leaf_2_fill" fill='none' fill-rule='evenodd'><path d='M24 0v24H0V0zM12.594 23.258l-.012.002-.071.035-.02.004-.014-.004-.071-.036c-.01-.003-.019 0-.024.006l-.004.01-.017.428.005.02.01.013.104.074.015.004.012-.004.104-.074.012-.016.004-.017-.017-.427c-.002-.01-.009-.017-.016-.018m.264-.113-.014.002-.184.093-.01.01-.003.011.018.43.005.012.008.008.201.092c.012.004.023 0 .029-.008l.004-.014-.034-.614c-.003-.012-.01-.02-.02-.022m-.715.002a.023.023 0 0 0-.027.006l-.006.014-.034.614c0 .012.007.02.017.024l.015-.002.201-.093.01-.008.003-.011.018-.43-.003-.012-.01-.01z'/><path fill='#007AFFFF' d='M16.5 3.206A5.002 5.002 0 0 1 18.716 9.2a5.002 5.002 0 0 1-3.926 8.755c.044.37.05.754.02 1.127-.075.885-.376 1.897-1.103 2.624a1 1 0 0 1-1.497-1.32l.083-.094c.273-.273.472-.76.523-1.376.01-.112.013-.222.012-.328a5 5 0 0 1-7.544-5.79 5.002 5.002 0 0 1 4.917-8.515 5.002 5.002 0 0 1 6.3-1.078ZM12 9.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3'/></g></svg>
+NAY</h1>
+<h1 >
+DESIGN
+<br>
+GUIDE
+</h1>
+
+<div class="sample">
+<h1>Try it </h1>
+<button onmousedown="
+  const body = document.querySelector('body');
+  const isMint = getComputedStyle(body).backgroundColor === 'rgb(227, 228, 239)';
+  body.style.background = isMint ? 'var(--dark)' : 'var(--mint)';
+  body.style.color = isMint ? 'var(--white90)' : '#000';
+">
+Switch mode <i>proper</i>
+</button>
+</div>
+<section aria-label="Color samples">
+  <h2>Color</h2>
+<i>This uses color system uses a range of 90%  for Light of the Color<br> (Not using 100% range) and 10% Dim of Color</i>
+  <div class="container" aria-label="Color container">
+    <span>
+
+      <div class="sample">
+        <span>
+          <div class="sample-color bg-orange"></div>
+          <div>
+            <h2>Red</h2>
+            <i>Orange Pill</i>
+          </div>
+        </span>
+        <div class="text">Works as a fast attention point. The bright value creates strong pull.<br>
+This color improve <i>Hype</i> to our feeling.</div>
+      </div>
+
+      <div class="sample">
+        <span>
+          <div class="sample-color bg-blue"></div>
+          <div>
+            <h2>Blue</h2>
+            <i>Tap Blue</i>
+          </div>
+        </span>
+        <div class="text">Supports primary actions. It creates clear direction for the user.<br> This color approach the feeling of <i>Trustful</i>.</div>
+      </div>
+
+      <div class="sample">
+        <span>
+          <div class="sample-color bg-yellow"></div>
+          <div>
+            <h2>Yellow</h2>
+            <i>Phonal Yellow</i>
+          </div>
+        </span>
+        <div class="text">Highlighting content. It increases visibility on key parts.<br>
+This color frames an <i>Energetic</i> feeling to us.</div>
+      </div>
+
+      <div class="sample">
+        <span>
+          <div class="sample-color bg-green"></div>
+          <div>
+            <h2>Green</h2>
+            <i>Dosh Green</i>
+          </div>
+        </span>
+        <div class="text">Represents success states. It confirms actions and final results.
+<br>
+This color shows a depth of <i>Agreement</i> and <i>Naturality</i>
+</div>
+      </div>
+
+    </span>
+
+    <div class="text">
+      The containers' here uses <u>White 90%</u> to lift the group. <br> <br>The samples use shov to create mid contrast. This separates the items from the environment and helps form a clear focus order.
+    </div>
+  </div>
+</section>
+
+<section aria-label="Alignment samples">
+  <h2>Alignment</h2>
+  <div class="container" aria-label="Alignment container">
+    <row>
+      <div class="sample align-left">Left aligned</div>
+      <div class="sample align-center">Center aligned</div>
+      <div class="sample align-right">Right aligned</div>
+    </row>
+
+    <div class="text">
+      <b>Alignment </b> helps us controls the position of a single item inside its own area. The container frames all items as one group. The samples show the shift in position clearly.
+    </div>
+  </div>
+</section>
+
+<section aria-label="Layout samples">
+  <h2>Layout</h2>
+  <div class="container" aria-label="Layout container">
+    <span>
+      <row>
+        <div class="sample">Row item A</div>
+        <div class="sample">Row item B</div>
+        <div class="sample">Row item C</div>
+      </row>
+
+      <col>
+        <div class="sample">Column item A</div>
+        <div class="sample">Column item B</div>
+        <div class="sample">Column item C</div>
+      </col>
+    </span>
+
+    <div class="text">
+      <b>Layout </b> or <i>Laying Out</i>
+<br>Help manages groups of items. Like <i>row</i>-ing sets movement from left to right. Column sets movement from top to bottom. The shov samples show the internal structure. The container shows the group boundary.
+    </div>
+  </div>
+</section>
+
+<section aria-label="Shadow samples">
+  <h2>Shadow</h2>
+  <div class="container" aria-label="Shadow container">
+    <span>
+      <div class="sample shadow-soft">Soft shadow</div>
+      <div class="sample shadow-strong">Strong shadow</div>
+    </span>
+
+    <div class="text">
+      <b>Soft shadow </b>adds light separation. 
+<br>
+<b>Strong shadow</b> adds strong separation and appears bigger.
+<br>
+<i> Depth changes how fast the eye can find an element.
+ </i>
+    </div>
+  </div>
+</section>
+
+<section aria-label="Brightness samples">
+  <h2>Brightness</h2>
+  <div class="container" aria-label="Brightness container">
+    <span>
+      <div class="sample bg-white90">Lighter surface</div>
+      <div class="sample bg-shov">Dimmer surface</div>
+    </span>
+
+    <div class="text">
+      <b>Brightness </b>
+sets focus power. Lighter areas rise and It appears more Visible.
+<br>
+Dim areas rest. The user notices the bright area first.
+    </div>
+  </div>
+</section>
+
+</body>
+  </html>
+        
