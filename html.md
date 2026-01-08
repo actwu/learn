@@ -1,6 +1,6 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
-<script src="https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js"></script>
+<script src="https://iselang.github.io/num.min.js"></script>
 <script>
 app('Learn - Html'); fav(3);
 </script>
