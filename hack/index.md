@@ -15,33 +15,33 @@
 # ETHICAL HACKING BASICS 101 - ASCII GUIDE
 
 ## WEB STACK
-html structure  
-css style  
-javascript behavior  
-frontend runs in browser  
-backend runs on server  
+html -> structure  
+css -> style  
+javascript -> behavior  
+frontend -> runs in browser  
+backend -> runs on server  
 browser -> server -> database -> server -> browser  
 
 ## HTTP METHODS
-get    read  
-post   create  
-put    update  
-delete remove  
+get    -> read  
+post   -> create  
+put    -> update  
+delete  ->  remove  
 
 ## COMMON HTTP STATUS CODES
-200  ok  
-301  redirect  
-400  bad request  
-401  unauthorized  
-403  forbidden  
-404  not found  
-500  server error  
+200 ->   ok  
+301 -> redirect  
+400  -> bad request  
+401  -> unauthorized  
+403  -> forbidden  
+404  -> not found  
+500  -> server error  
 
 ## HTTP REQUEST PARTS
 method  
 path  
 headers  
-body optional  
+body (optional )
 
 ## COMMON HTTP HEADERS
 Host  
@@ -53,8 +53,8 @@ Cookie
 Set-Cookie  
 
 ## WEBSITE FILES
-index.html  default page  
-404.html    not found page  
+index.html ->  default page  
+404.html   ->  not found page  
 
 common paths  
 - /index.html  
@@ -67,15 +67,15 @@ common paths
 - /sitemap.xml  
 
 ## NETWORKING BASICS
-ssh       secure remote access port 22  
-http      port 80  
-https     port 443  
-ftp       port 21  
-dns       port 53  
+ssh     ->   secure remote access port 22  
+http   ->    port 80  
+https  ->    port 443  
+ftp     ->   port 21  
+dns    ->    port 53  
 
-vpn       encrypt traffic hide ip  
-proxy     middle server  
-endpoint  final server or api url  
+vpn     ->   encrypt traffic hide ip  
+proxy  ->    middle server  
+endpoint ->  final server or api url  
 
 tcp = reliable, ordered  
 udp = fast, no guarantee  
