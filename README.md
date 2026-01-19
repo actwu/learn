@@ -35,3 +35,5 @@ easy-to-use system. 0.7s Speed Native and Web Machine Rule.
 [Learn More,](https://iselang.github.io/num/)
 
 [> Other language](/other.md)
+
+[Ethical Hacking](/hack/index.md)
